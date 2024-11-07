@@ -1,0 +1,43 @@
+---
+title: "Decoding Diabetes: An Epidemiological Approach to Type II Diabetes in the U.S."
+output: github_document
+fontsize: 10px
+---
+
+### **Group members**
+
+Arghya Kannadaguli (ak5357), Helen Yousaf (hy2912), Maya Krishnamoorthy (mk4995), Riya Kalra (rkk2139), and Gokul Pareek (gp2770).
+
+### **Project Description**
+
+In this project, we will create a website about Type II Diabetes (T2D) in the U.S. We aim to develop a customizable dashboard in which users could input specific criteria and our software would yield relevant data. Our group’s inherent interest in public health and chronic disease epidemiology prompts us to explore the context of T2D in this project.
+
+### **Motivation**
+
+T2D is among the leading causes of mortality in the U.S. Through our project, we hope to conduct an in-depth analysis of risk factors and lifestyle choices that contribute to its development. We will consider potential covariates and confounders through linear and multivariate regression models. Challenges may arise from cleaning our dataset for our specific aims: identifying the relevant variables, handling data that is missing due to loss-to-follow-up or other issues, and re-coding categorical variables as indicator variables for regression.
+
+### **Deliverable**
+
+The intended deliverable includes graphical representations of regression models, maps of T2D across the US, and a customizable dashboard outlining potential risk factors for T2D. We hope to create a dashboard that provides a predictive estimate to help users understand how they can mitigate their risk and prevent developing T2D in the future. 
+
+### **Data Source**
+
+We intend to use the following data source: Behavioral Risk Factor Surveillance System (BRFSS): https://www.cdc.gov/brfss/annual_data/annual_2023.html. This survey, collected by the US Centers for Disease and Prevention (CDC), captures diabetes data as well as data on health-related risk behaviors, chronic health conditions, health-care access, and use of preventive services. This longitudinal survey has been collecting data since 1984, and was recently published in September 2024. Other datasets we could use include:
+
+* https://archive.ics.uci.edu/dataset/34/diabetes
+* https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+* https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/DIQ_I.htm
+
+### **Timeline**
+
+Based on the recommended timeline provided by the assignment details and the availability and time constraints of the group members, we anticipate the following tentative timeline. 
+
+| Date | Goal |
+|---|---|
+|Wednesday, November 13 | In-person meeting to understand dataset and discuss EDA |
+| Thursday, November 14 | In-person meeting for continued EDA and preliminary data cleaning |
+| Wednesday, November 20 | Progress meeting for data analysis |
+| Thursday, November 21 | Begin website development and report writing |
+| Wednesday, December 4 | Website development and report writing |
+| Thursday, December 5 | Edits and final changes |
+| Friday, December 6 | Submit report, webpage, screencast and individual peer assessments |
